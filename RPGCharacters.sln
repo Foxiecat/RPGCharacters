@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGCharacters", "RPGCharacters\RPGCharacters.csproj", "{F9DDEE42-58C7-452F-9E0F-525BA116BE83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9DDEE42-58C7-452F-9E0F-525BA116BE83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9DDEE42-58C7-452F-9E0F-525BA116BE83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9DDEE42-58C7-452F-9E0F-525BA116BE83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9DDEE42-58C7-452F-9E0F-525BA116BE83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
